@@ -1,0 +1,1182 @@
+state,event_type,id
+Guangdong,product,981
+Guangdong,cart,741
+Guangdong,department,703
+England,department,551
+England,cart,544
+California,cart,495
+Shanghai,product,474
+California,department,461
+São Paulo,product,402
+Zhejiang,product,384
+England,product,379
+California,product,376
+Beijing,product,367
+Jiangsu,product,350
+Texas,cart,344
+Shanghai,cart,333
+Florida,product,331
+Shanghai,department,327
+Gyeonggi-do,product,310
+São Paulo,cart,300
+São Paulo,department,294
+Zhejiang,cart,289
+Beijing,cart,288
+Hebei,product,286
+Texas,department,286
+Seoul,product,279
+Zhejiang,department,277
+Bahia,product,274
+Hebei,cart,267
+Minas Gerais,product,267
+New York,product,264
+Nordrhein-Westfalen,product,264
+Hebei,department,258
+Henan,product,256
+Beijing,department,253
+Jiangsu,department,252
+Shandong,product,246
+Florida,cart,242
+Fujian,product,241
+Hunan,product,239
+Florida,department,232
+Jiangsu,cart,230
+Gyeonggi-do,department,227
+Texas,product,225
+Nordrhein-Westfalen,cart,211
+Minas Gerais,department,209
+Tokyo,product,205
+New York,department,202
+Henan,cart,200
+Liaoning,product,198
+Île-de-France,department,197
+Minas Gerais,cart,195
+Henan,department,193
+Seoul,department,192
+Gyeonggi-do,cart,191
+Bahia,cart,189
+Pará,cart,189
+Bahia,department,189
+Île-de-France,cart,187
+Nordrhein-Westfalen,department,183
+Hubei,product,181
+Fujian,department,178
+Sichuan,department,174
+Rio de Janeiro,product,173
+Shandong,department,173
+Liaoning,department,169
+New York,cart,167
+Anhui,product,164
+Hunan,department,161
+Pará,department,160
+Maranhão,department,157
+Hunan,cart,156
+Shandong,cart,155
+Fujian,cart,152
+Heilongjiang,product,148
+Hubei,department,148
+Sichuan,cart,145
+Shanxi,product,145
+Guangdong,cancel,144
+Georgia,product,140
+Andalucía,product,139
+Jilin,product,138
+New South Wales,product,138
+Pará,product,136
+Liaoning,cart,136
+Seoul,cart,135
+Hubei,cart,135
+Comunidad de Madrid,product,135
+Jiangxi,product,135
+North Carolina,product,135
+Maranhão,cart,129
+Georgia,cart,128
+Shaanxi,cart,126
+Sichuan,product,126
+Ceará,department,126
+Illinois,department,125
+Rio de Janeiro,department,124
+Île-de-France,product,124
+Tokyo,department,122
+Rio de Janeiro,cart,121
+Tianjin,product,120
+Heilongjiang,cart,120
+Georgia,department,120
+Shaanxi,department,120
+Illinois,cart,120
+Ceará,cart,120
+Pernambuco,product,119
+Tokyo,cart,118
+Inner Mongolia Autonomous Region,product,116
+New South Wales,cart,116
+Jilin,cart,113
+Illinois,product,112
+Anhui,department,109
+Pennsylvania,product,107
+Virginia,product,107
+Flanders,cart,107
+England,cancel,107
+Heilongjiang,department,105
+Flanders,product,105
+North Carolina,cart,104
+Guangdong,home,104
+Guangxi Zhuang Autonomous Region,product,104
+Guizhou,product,103
+Anhui,cart,102
+Comunidad de Madrid,department,102
+Andalucía,department,102
+North Carolina,department,101
+Ohio,product,99
+Victoria,product,98
+Guangdong,purchase,97
+Tianjin,cart,96
+Shanxi,department,95
+Virginia,cart,94
+Maryland,product,94
+Jilin,department,94
+California,cancel,92
+Michigan,product,92
+Rio Grande do Sul,department,92
+Auvergne-Rhône-Alpes,department,91
+New South Wales,department,91
+Victoria,cart,90
+Arizona,cart,90
+Shanxi,cart,90
+Rio Grande do Sul,cart,89
+Inner Mongolia Autonomous Region,department,88
+Tianjin,department,88
+New Jersey,cart,88
+Jiangxi,department,87
+Kanagawa,product,87
+New Jersey,department,87
+Cataluña,department,87
+Cataluña,cart,87
+Incheon Metropolitan City,product,87
+Comunidad Valenciana,product,87
+Flanders,department,86
+Arizona,department,86
+Maranhão,product,86
+England,purchase,85
+Comunidad de Madrid,cart,83
+Pernambuco,department,82
+Amazonas,department,82
+Chongqing,product,82
+Auvergne-Rhône-Alpes,cart,80
+Ohio,department,80
+Ceará,product,80
+Cataluña,product,79
+Pennsylvania,department,78
+Queensland,product,78
+Inner Mongolia Autonomous Region,cart,77
+Washington,department,76
+Guizhou,cart,75
+Jiangxi,cart,75
+California,purchase,74
+Texas,cancel,73
+Victoria,department,73
+Pernambuco,cart,73
+Guizhou,department,72
+Maryland,cart,72
+Virginia,department,70
+Andalucía,cart,70
+Occitanie,product,70
+Chongqing,cart,68
+Niedersachsen,product,68
+Chongqing,department,68
+Indiana,product,68
+Paraná,cart,68
+California,home,67
+Arizona,product,67
+England,home,67
+Pennsylvania,cart,67
+Auvergne-Rhône-Alpes,product,66
+Shaanxi,product,66
+Ohio,cart,66
+Michigan,cart,65
+Paraná,department,64
+Shanghai,cancel,64
+Guangxi Zhuang Autonomous Region,department,64
+Busan,cart,64
+Busan,department,64
+Comunidad Valenciana,cart,62
+Amazonas,product,62
+Guangxi Zhuang Autonomous Region,cart,62
+Washington,cart,61
+Occitanie,cart,61
+Provence-Alpes-Côte d'Azur,department,61
+Xinjiang Uygur Autonomous Region,department,61
+Paraná,product,60
+Tennessee,product,60
+Provence-Alpes-Côte d'Azur,product,60
+Amazonas,cart,60
+Niedersachsen,cart,60
+Maryland,department,60
+Rio Grande do Sul,product,59
+Beijing,cancel,58
+Hauts-de-France,product,58
+Wallonia,product,58
+Michigan,department,57
+Tennessee,cart,57
+Massachusetts,department,56
+Shanghai,purchase,56
+Gansu province,cart,56
+Jiangsu,cancel,56
+Wisconsin,product,56
+Incheon Metropolitan City,department,56
+Gansu province,department,55
+Bayern,department,55
+Provence-Alpes-Côte d'Azur,cart,55
+Baden-Württemberg,department,55
+Queensland,cart,54
+Comunidad Valenciana,department,54
+São Paulo,cancel,54
+Indiana,department,54
+Colorado,cart,53
+Colorado,department,52
+Xinjiang Uygur Autonomous Region,product,51
+Nouvelle-Aquitaine,product,51
+Texas,purchase,51
+Tennessee,department,51
+Yunnan,department,51
+Incheon Metropolitan City,cart,50
+Xinjiang Uygur Autonomous Region,cart,50
+Washington,product,50
+Kanagawa,cart,50
+Baden-Württemberg,product,49
+Wallonia,department,49
+Queensland,department,49
+Wallonia,cart,49
+Distrito Federal,cart,49
+Bayern,product,49
+Grand Est,product,48
+Baden-Württemberg,cart,48
+Minnesota,product,48
+South Carolina,product,48
+Massachusetts,product,48
+Zhejiang,cancel,48
+Texas,home,48
+Distrito Federal,department,48
+Indiana,cart,47
+Kanagawa,department,47
+Florida,cancel,47
+Santa Catarina,department,47
+Santa Catarina,cart,47
+Hebei,cancel,47
+Bahia,cancel,47
+Yunnan,cart,46
+Goiás,department,46
+Distrito Federal,product,46
+Bayern,cart,45
+Gansu province,product,45
+Berlin,cart,45
+Niedersachsen,department,45
+New Jersey,product,45
+Goiás,cart,44
+São Paulo,home,44
+Sichuan,cancel,43
+Florida,purchase,43
+Seoul,cancel,43
+Nouvelle-Aquitaine,department,43
+Oregon,product,43
+Mato Grosso,department,42
+Bretagne,product,42
+Nevada,department,42
+Gyeonggi-do,cancel,42
+Occitanie,department,42
+Minas Gerais,cancel,42
+Shanghai,home,42
+Zhejiang,home,41
+Hebei,purchase,41
+New York,cancel,41
+Beijing,home,40
+Beijing,purchase,40
+Sergipe,product,40
+São Paulo,purchase,40
+Pará,cancel,40
+Fujian,cancel,40
+Minnesota,department,39
+Nouvelle-Aquitaine,cart,39
+Wisconsin,department,39
+Busan,product,39
+Minnesota,cart,38
+Zhejiang,purchase,38
+Mato Grosso,cart,38
+Henan,cancel,38
+Pays de la Loire,department,38
+Hunan,cancel,38
+Pays de la Loire,product,38
+Minas Gerais,purchase,37
+Utah,cart,36
+Kentucky,product,36
+Grand Est,cart,36
+Scotland,cart,36
+Saitama,product,36
+Gyeonggi-do,purchase,36
+Hauts-de-France,department,36
+Nordrhein-Westfalen,home,36
+Wales,cart,36
+Fujian,purchase,36
+País Vasco,product,35
+Wisconsin,cart,35
+Bahia,purchase,35
+Nordrhein-Westfalen,cancel,35
+Hessen,cart,35
+Hauts-de-France,cart,35
+Henan,home,35
+Chiba,product,34
+South Carolina,department,34
+Oregon,cart,34
+Missouri,department,34
+Alabama,product,34
+Florida,home,34
+Hebei,home,33
+Hubei,cancel,33
+Pays de la Loire,cart,33
+Normandie,product,33
+Oregon,department,33
+Shandong,cancel,33
+Île-de-France,purchase,33
+Daegu Metropolitan City,cart,33
+Daegu Metropolitan City,product,33
+Tokyo,cancel,32
+Sergipe,cart,32
+Nevada,cart,32
+Sergipe,department,32
+Bretagne,department,32
+Seoul,purchase,32
+Scotland,department,32
+Berlin,product,32
+Utah,department,32
+Santa Catarina,product,32
+Massachusetts,cart,31
+Oklahoma,department,31
+Louisiana,cart,31
+Chiba,department,31
+Minas Gerais,home,31
+Connecticut,department,31
+Rio de Janeiro,cancel,31
+Espírito Santo,product,31
+Mato Grosso,product,31
+Hainan,cart,31
+Normandie,cart,31
+Bretagne,cart,31
+Alagoas,product,31
+Canarias,product,30
+Kentucky,department,30
+Rio Grande do Norte,product,30
+Rio Grande do Norte,cart,30
+Chungcheongnam-do,product,30
+Colorado,product,30
+Kentucky,cart,29
+Missouri,cart,29
+Daegu Metropolitan City,department,29
+New York,purchase,29
+Hessen,department,29
+Hessen,product,29
+Saitama,cart,29
+Liaoning,home,29
+Illinois,cancel,29
+Sachsen,department,29
+South Australia,cart,29
+Oklahoma,cart,28
+Liaoning,cancel,28
+Normandie,department,28
+South Carolina,cart,28
+Anhui,cancel,27
+Gyeonggi-do,home,27
+Berlin,department,27
+Daejeon,product,27
+Jiangsu,home,27
+Missouri,product,27
+Georgia,cancel,27
+Pennsylvania,cancel,27
+Pará,home,27
+Gyeongsangnam-do,department,26
+Jiangsu,purchase,26
+Henan,purchase,26
+Paraíba,product,26
+Jilin,cancel,26
+Louisiana,department,26
+Bahia,home,26
+Sachsen,product,26
+Maranhão,home,25
+Georgia,home,25
+Brandenburg,product,25
+Centre-Val de Loire,product,25
+Connecticut,cart,25
+Île-de-France,cancel,25
+Pará,purchase,25
+Canarias,cart,25
+Sichuan,purchase,25
+Maranhão,purchase,24
+Idaho,cart,24
+South Australia,product,24
+Región de Murcia,cart,24
+Castilla y León,cart,24
+Brussels,product,24
+Nevada,product,24
+Fujian,home,24
+Île-de-France,home,24
+Alabama,cart,24
+Chiba,cart,24
+Ceará,cancel,24
+Ningxia Hui Autonomous Region,department,24
+Seoul,home,24
+Shaanxi,cancel,24
+Goiás,product,24
+Western Australia,department,24
+Tokyo,purchase,24
+Bourgogne-Franche-Comté,department,23
+Castilla-La Mancha,department,23
+Sichuan,home,23
+Wales,department,23
+Illinois,home,23
+Grand Est,department,23
+Hainan,product,23
+Shanxi,cancel,23
+Alabama,department,23
+New South Wales,home,23
+Maranhão,cancel,23
+Castilla-La Mancha,product,23
+Ceará,home,23
+Northern Ireland,department,22
+Yunnan,product,22
+Virginia,cancel,22
+New York,home,22
+Hunan,purchase,22
+Schleswig-Holstein,product,22
+Jilin,purchase,22
+Shandong,home,22
+Hunan,home,21
+Galicia,product,21
+Región de Murcia,department,21
+Alagoas,department,21
+Piauí,cart,21
+Louisiana,product,21
+Arkansas,department,21
+Iowa,department,21
+Hamburg,cart,21
+Gyeongsangnam-do,product,21
+Ningxia Hui Autonomous Region,cart,21
+Gyeongsangnam-do,cart,21
+Castilla-La Mancha,cart,21
+South Australia,department,21
+Paraná,cancel,20
+New Mexico,cart,20
+Centre-Val de Loire,department,20
+Shaanxi,purchase,20
+Arizona,cancel,20
+Bourgogne-Franche-Comté,cart,20
+Aragón,product,20
+Castilla y León,department,20
+Shandong,purchase,20
+Western Australia,product,20
+Hamburg,product,20
+New South Wales,cancel,20
+Pennsylvania,purchase,20
+Mississippi,product,20
+Delaware,product,20
+Hubei,purchase,20
+Scotland,product,20
+Chongqing,cancel,20
+Ningxia Hui Autonomous Region,product,19
+Hubei,home,19
+Cataluña,cancel,19
+Piauí,department,19
+Flanders,cancel,19
+Mato Grosso do Sul,department,19
+Chungcheongnam-do,cart,19
+Comunidad Valenciana,cancel,19
+Washington,cancel,19
+Baden-Württemberg,cancel,19
+País Vasco,cart,19
+País Vasco,department,19
+Western Australia,cart,19
+Rio Grande do Norte,department,19
+Auvergne-Rhône-Alpes,cancel,19
+Heilongjiang,cancel,19
+Oklahoma,product,19
+Ceará,purchase,19
+Mississippi,department,18
+Rio Grande do Sul,cancel,18
+Wales,product,18
+Tianjin,cancel,18
+Sachsen-Anhalt,cart,18
+Región de Murcia,product,18
+Galicia,department,18
+Rondônia,cart,18
+Tianjin,home,18
+Maryland,cancel,18
+Dolnośląskie,cart,18
+Utah,product,18
+Andalucía,cancel,18
+Espírito Santo,cart,18
+Kansas,cart,18
+Illinois,purchase,18
+Provence-Alpes-Côte d'Azur,cancel,18
+Saitama,department,18
+New Jersey,cancel,18
+Alagoas,cart,18
+Brussels,department,17
+North Carolina,purchase,17
+Amapá,cart,17
+New South Wales,purchase,17
+Cataluña,home,17
+Islas Baleares,department,17
+Queensland,cancel,17
+Hawaii,department,17
+Rio de Janeiro,home,17
+Iowa,product,17
+Heilongjiang,purchase,17
+Flanders,home,17
+Gyeongsangbuk-do,department,17
+Rheinland-Pfalz,product,17
+Heilongjiang,home,16
+Hainan,department,16
+Cataluña,purchase,16
+Chung-cheong bukdo,product,16
+Schleswig-Holstein,department,16
+Lubuskie,department,16
+Hamburg,department,16
+Castilla y León,product,16
+Arkansas,cart,16
+Distrito Federal,cancel,16
+North Carolina,cancel,16
+Chungcheongnam-do,department,16
+Rio de Janeiro,purchase,16
+Northern Ireland,product,16
+Xinjiang Uygur Autonomous Region,cancel,16
+Paraíba,department,16
+Osaka,product,16
+Brussels,cart,16
+Inner Mongolia Autonomous Region,cancel,16
+Jiangxi,cancel,16
+Victoria,cancel,16
+Nebraska,cart,16
+Georgia,purchase,16
+Gyeongsangbuk-do,cart,15
+Auvergne-Rhône-Alpes,purchase,15
+Mato Grosso do Sul,cart,15
+Idaho,department,15
+Pernambuco,purchase,15
+Lubuskie,cart,15
+Andalucía,home,15
+Canarias,department,15
+Virginia,home,15
+Guizhou,cancel,15
+North Carolina,home,15
+Guangxi Zhuang Autonomous Region,home,15
+Pernambuco,home,15
+Centre-Val de Loire,cart,15
+Nordrhein-Westfalen,purchase,14
+Dolnośląskie,product,14
+Espírito Santo,department,14
+Liaoning,purchase,14
+Delaware,department,14
+Arkansas,product,14
+Rheinland-Pfalz,department,14
+Sachsen-Anhalt,product,14
+Nebraska,department,14
+Bourgogne-Franche-Comté,product,14
+Sachsen,cart,14
+Thüringen,cart,14
+Schleswig-Holstein,cart,14
+Pernambuco,cancel,14
+Comunidad Valenciana,purchase,14
+Amapá,department,14
+Jilin,home,14
+Tennessee,cancel,14
+Flanders,purchase,14
+Mississippi,cart,14
+Wallonia,cancel,14
+Brandenburg,department,14
+Pennsylvania,home,14
+Amazonas,home,13
+Busan,cancel,13
+Iowa,cart,13
+Kanagawa,cancel,13
+Xinjiang Uygur Autonomous Region,purchase,13
+Busan,home,13
+Comunidad de Madrid,cancel,13
+Islas Baleares,cart,13
+Ulsan Metropolitan City,cart,13
+Guizhou,home,13
+Gwangju,cart,13
+Goiás,cancel,13
+Idaho,product,13
+Auvergne-Rhône-Alpes,home,13
+Piauí,product,13
+Chongqing,purchase,13
+Shaanxi,home,13
+Anhui,purchase,13
+Colorado,purchase,13
+Niedersachsen,purchase,13
+Queensland,home,13
+Connecticut,cancel,13
+South Dakota,product,13
+Connecticut,product,13
+Brandenburg,cart,13
+Maryland,home,13
+Kansas,department,13
+New Mexico,department,12
+Nebraska,product,12
+Aragón,cart,12
+Extremadura,cart,12
+Gyeongsangbuk-do,product,12
+Chongqing,home,12
+Amapá,product,12
+Tokyo,home,12
+Grand Est,home,12
+Extremadura,department,12
+New Jersey,home,12
+Mato Grosso,cancel,12
+Occitanie,cancel,12
+Thüringen,department,12
+Osaka,cart,12
+Virginia,purchase,12
+Kansas,product,12
+Wallonia,purchase,12
+Paraíba,cart,12
+Inner Mongolia Autonomous Region,home,12
+Shanxi,home,12
+Busan,purchase,12
+Anhui,home,12
+Dolnośląskie,department,12
+Daejeon,department,11
+Gwangju,department,11
+Yunnan,purchase,11
+South Carolina,home,11
+Northern Ireland,cart,11
+Guizhou,purchase,11
+Bremen,department,11
+Inner Mongolia Autonomous Region,purchase,11
+Baden-Württemberg,purchase,11
+Paraná,purchase,11
+Bayern,purchase,11
+Arizona,purchase,11
+Gwangju,product,11
+Principado de Asturias,cart,11
+Indiana,home,11
+Jeollanam-do,product,11
+Islas Baleares,product,11
+Oregon,cancel,11
+Chung-cheong bukdo,cart,11
+Tianjin,purchase,11
+Rondônia,department,11
+Hawaii,product,11
+Ohio,cancel,11
+Tasmania,cart,11
+Rhode Island,product,10
+Jiangxi,home,10
+New Jersey,purchase,10
+Montana,product,10
+New Mexico,product,10
+Galicia,cart,10
+Utah,cancel,10
+New Hampshire,department,10
+Maryland,purchase,10
+Baden-Württemberg,home,10
+Pays de la Loire,cancel,10
+Rondônia,product,10
+Washington,home,10
+Xinjiang Uygur Autonomous Region,home,10
+Incheon Metropolitan City,cancel,10
+Niedersachsen,cancel,10
+Aichi,cart,10
+Sachsen-Anhalt,department,10
+Daejeon,cart,10
+Guangxi Zhuang Autonomous Region,purchase,10
+Hyogo,department,10
+Victoria,purchase,10
+Shanxi,purchase,10
+Acre,cart,10
+Comunidad de Madrid,home,10
+Osaka,department,10
+Qinghai,cart,10
+Aichi,product,10
+Victoria,home,9
+Bremen,product,9
+Nevada,home,9
+New Hampshire,product,9
+Gansu province,cancel,9
+Ulsan Metropolitan City,product,9
+Rheinland-Pfalz,cart,9
+West Virginia,product,9
+Bayern,home,9
+Oregon,home,9
+Missouri,home,9
+Jeju Special Self-Governing Province,cart,9
+Amazonas,purchase,9
+Hainan,cancel,9
+Aragón,department,9
+Chung-cheong bukdo,department,9
+Hauts-de-France,home,9
+Amazonas,cancel,9
+Delaware,cart,9
+Michigan,cancel,9
+Gangwon-do,product,9
+Gangwon-do,department,9
+Jeollanam-do,department,9
+Andalucía,purchase,9
+Indiana,cancel,8
+Ohio,purchase,8
+Gyeongsangnam-do,cancel,8
+Yunnan,home,8
+País Vasco,cancel,8
+Alaska,department,8
+Massachusetts,home,8
+Hawaii,cart,8
+Colorado,cancel,8
+Iowa,home,8
+Rhode Island,cart,8
+District of Columbia,department,8
+Principado de Asturias,department,8
+Queensland,purchase,8
+Michigan,home,8
+Qinghai,product,8
+Qinghai,department,8
+Incheon Metropolitan City,purchase,8
+Tennessee,home,8
+Comunidad de Madrid,purchase,8
+Arizona,home,8
+Jiangxi,purchase,8
+Kentucky,home,8
+Washington,purchase,8
+Fukuoka,department,8
+Australian Capital Territory,cart,8
+Bayern,cancel,8
+Berlin,cancel,8
+Goiás,purchase,8
+Scotland,home,8
+Fukuoka,cart,8
+Acre,product,8
+New Mexico,cancel,8
+Niedersachsen,home,8
+New Hampshire,cart,8
+Rio Grande do Sul,home,7
+Ohio,home,7
+Louisiana,cancel,7
+Lubuskie,product,7
+Occitanie,purchase,7
+Rio Grande do Sul,purchase,7
+Alagoas,cancel,7
+Hessen,cancel,7
+Occitanie,home,7
+Guangxi Zhuang Autonomous Region,cancel,7
+Rio Grande do Norte,home,7
+Distrito Federal,purchase,7
+South Australia,cancel,7
+Wallonia,home,7
+Región de Murcia,cancel,7
+Colorado,home,7
+Wisconsin,cancel,7
+Bretagne,cancel,7
+Navarra,product,7
+Bremen,cart,7
+Acre,department,7
+Daegu Metropolitan City,cancel,7
+Bagmati region,department,7
+Incheon Metropolitan City,home,7
+Alagoas,home,7
+Daegu Metropolitan City,purchase,7
+Paraná,home,7
+Kanagawa,home,7
+Sergipe,purchase,7
+South Dakota,cart,7
+Hyogo,product,7
+Missouri,cancel,7
+Ningxia Hui Autonomous Region,cancel,7
+Mato Grosso,home,7
+North Dakota,department,7
+Santa Catarina,cancel,7
+Saitama,home,7
+Extremadura,product,7
+Minnesota,cancel,7
+Mato Grosso do Sul,product,7
+Hauts-de-France,cancel,7
+Saarland,department,7
+Jeollabuk do,department,7
+Massachusetts,cancel,7
+Alaska,product,7
+Rondônia,purchase,6
+Maine,cart,6
+Michigan,purchase,6
+Nouvelle-Aquitaine,cancel,6
+Saarland,product,6
+Tocantins,department,6
+Provence-Alpes-Côte d'Azur,purchase,6
+Mecklenburg-Vorpommern,department,6
+Montana,department,6
+Mecklenburg-Vorpommern,product,6
+Cantabria,department,6
+Goiás,home,6
+Piauí,purchase,6
+Jeollanam-do,cart,6
+Alagoas,purchase,6
+Gansu province,home,6
+Nouvelle-Aquitaine,home,6
+Santa Catarina,home,6
+Sergipe,home,6
+Nouvelle-Aquitaine,purchase,6
+North Dakota,cart,6
+District of Columbia,product,6
+Hyogo,cart,6
+Missouri,purchase,6
+Northern Ireland,cancel,6
+Massachusetts,purchase,6
+Minnesota,home,6
+La Rioja,product,6
+Remote territory,product,6
+Scotland,cancel,6
+Thüringen,product,6
+North Dakota,product,6
+Islas Baleares,home,5
+Tocantins,cart,5
+Saitama,purchase,5
+Santa Catarina,purchase,5
+Jeju Special Self-Governing Province,department,5
+Gyeongsangbuk-do,home,5
+Alaska,cart,5
+Tocantins,product,5
+Jeollabuk do,cart,5
+Saitama,cancel,5
+Hiroshima,department,5
+Scotland,purchase,5
+Bagmati region,product,5
+Principado de Asturias,product,5
+Hiroshima,product,5
+Sachsen,purchase,5
+Hainan,purchase,5
+Saarland,cart,5
+Hokkaido,cart,5
+Shizuoka,department,5
+Grand Est,cancel,5
+Región de Murcia,home,5
+Distrito Federal,home,5
+Australian Capital Territory,product,5
+País Vasco,purchase,5
+Australian Capital Territory,department,5
+Tasmania,department,5
+Canarias,purchase,5
+Oklahoma,home,5
+Alabama,cancel,5
+West Virginia,cart,5
+Tasmania,product,5
+West Virginia,department,5
+Wyoming,department,5
+Kanagawa,purchase,5
+Lubuskie,cancel,5
+Ningxia Hui Autonomous Region,home,5
+Chiba,cancel,5
+Wisconsin,home,5
+South Carolina,cancel,5
+Bretagne,home,5
+Navarra,cart,5
+Pays de la Loire,home,5
+Miyagi,department,5
+Hauts-de-France,purchase,4
+Hamburg,cancel,4
+Mato Grosso,purchase,4
+Ulsan Metropolitan City,department,4
+Castilla y León,cancel,4
+Nagano,product,4
+Gangwon-do,cancel,4
+Roraima,cart,4
+Fukuoka,product,4
+Sachsen-Anhalt,cancel,4
+Cantabria,product,4
+Utah,home,4
+Bourgogne-Franche-Comté,cancel,4
+Cantabria,cart,4
+Gansu province,purchase,4
+Dolnośląskie,purchase,4
+Western Australia,purchase,4
+Canarias,home,4
+Okayama,cart,4
+Hawaii,cancel,4
+Normandie,cancel,4
+Hainan,home,4
+Centre-Val de Loire,cancel,4
+South Dakota,department,4
+Sergipe,cancel,4
+Mississippi,cancel,4
+Minnesota,purchase,4
+Aichi,department,4
+Amapá,home,4
+Grand Est,purchase,4
+Schleswig-Holstein,purchase,4
+Schleswig-Holstein,home,4
+Gwangju,purchase,4
+Wisconsin,purchase,4
+Berlin,home,4
+Nagano,cancel,4
+Berlin,purchase,4
+Wyoming,cart,4
+Centre-Val de Loire,home,4
+Castilla-La Mancha,cancel,4
+Wyoming,product,4
+Gyeongsangnam-do,purchase,4
+Rio Grande do Norte,purchase,4
+Amapá,purchase,4
+Provence-Alpes-Côte d'Azur,home,4
+Paraíba,cancel,4
+Tennessee,purchase,4
+Brussels,cancel,4
+Kyoto,cart,4
+Corse,product,4
+Piauí,cancel,4
+Wales,cancel,4
+Remote territory,cart,4
+Kentucky,cancel,4
+Kagoshima,department,4
+Canarias,cancel,4
+La Rioja,cart,4
+Kyoto,department,4
+Aomori,cart,4
+Qinghai,purchase,4
+Iowa,purchase,4
+La Rioja,department,4
+Jeollabuk do,product,4
+Rio Grande do Norte,cancel,4
+Hiroshima,cart,4
+Comunidad Valenciana,home,4
+Indiana,purchase,4
+Louisiana,home,4
+Daejeon,cancel,4
+Arkansas,cancel,4
+Oklahoma,cancel,4
+Brandenburg,purchase,3
+Connecticut,purchase,3
+Mississippi,purchase,3
+Gwangju,cancel,3
+Gunma,product,3
+Daegu Metropolitan City,home,3
+Corse,cart,3
+Hessen,home,3
+Yunnan,cancel,3
+Iowa,cancel,3
+Navarra,department,3
+Aichi,purchase,3
+Gangwon-do,cart,3
+Nebraska,purchase,3
+Pays de la Loire,purchase,3
+Islas Baleares,cancel,3
+Nagano,department,3
+Bagmati region,cart,3
+Fukuoka,purchase,3
+South Carolina,purchase,3
+Bretagne,purchase,3
+Montana,cart,3
+Miyazaki,cart,3
+Miyagi,product,3
+Castilla-La Mancha,purchase,3
+Fukushima,product,3
+Miyagi,cart,3
+Idaho,cancel,3
+Chiba,purchase,3
+Oregon,purchase,3
+Amapá,cancel,3
+Shizuoka,cart,3
+Northern Ireland,home,3
+Chungcheongnam-do,cancel,3
+Remote territory,department,3
+Hawaii,home,3
+Hokkaido,product,3
+País Vasco,home,3
+Hokkaido,department,3
+Dolnośląskie,cancel,3
+Rheinland-Pfalz,purchase,3
+Rhode Island,department,3
+Bourgogne-Franche-Comté,purchase,3
+Lubuskie,home,3
+Aichi,home,3
+Gyeongsangbuk-do,cancel,3
+Hyogo,cancel,3
+Normandie,purchase,3
+Kentucky,purchase,3
+Brussels,purchase,3
+Chung-cheong bukdo,cancel,3
+Louisiana,purchase,3
+Kansas,cancel,3
+Ibaraki,product,3
+Sachsen-Anhalt,purchase,3
+Sachsen,cancel,3
+Ibaraki,department,3
+Sachsen,home,3
+Osaka,cancel,3
+Aragón,home,3
+Centre-Val de Loire,purchase,3
+Thüringen,cancel,2
+Utah,purchase,2
+South Australia,home,2
+Tasmania,cancel,2
+Shizuoka,product,2
+Aragón,cancel,2
+Acre,cancel,2
+Bagmati region,cancel,2
+Hyogo,purchase,2
+Idaho,home,2
+Daejeon,home,2
+Islas Baleares,purchase,2
+Jeju Special Self-Governing Province,product,2
+Yamaguchi,department,2
+Yamaguchi,cart,2
+Kagoshima,product,2
+Akita,department,2
+Kyoto,product,2
+Lubuskie,purchase,2
+Maine,department,2
+Maine,product,2
+Maine,purchase,2
+Roraima,product,2
+Chungcheongnam-do,home,2
+Zachodniopomorskie,department,2
+Daejeon,purchase,2
+Mato Grosso do Sul,home,2
+Delaware,cancel,2
+Fukushima,department,2
+Fukushima,cart,2
+Fukuoka,cancel,2
+Gunma,department,2
+Gwangju,home,2
+Extremadura,purchase,2
+Gyeongsangnam-do,home,2
+Hamburg,purchase,2
+Extremadura,cancel,2
+Espírito Santo,purchase,2
+Hawaii,purchase,2
+Espírito Santo,home,2
+Espírito Santo,cancel,2
+Hessen,purchase,2
+District of Columbia,cart,2
+Chung-cheong bukdo,purchase,2
+Chungcheongnam-do,purchase,2
+Wyoming,purchase,2
+Qinghai,home,2
+Okinawa,department,2
+Osaka,home,2
+Wales,purchase,2
+Principado de Asturias,cancel,2
+Principado de Asturias,purchase,2
+Qinghai,cancel,2
+Vorarlberg,department,2
+Northern Territory,cart,2
+Región de Murcia,purchase,2
+Rheinland-Pfalz,cancel,2
+Rheinland-Pfalz,home,2
+Brandenburg,cancel,2
+Rondônia,cancel,2
+Roraima,department,2
+Mecklenburg-Vorpommern,cancel,2
+Ulsan Metropolitan City,home,2
+Northern Ireland,purchase,2
+Montana,purchase,2
+North Dakota,cancel,2
+Western Australia,cancel,2
+Mecklenburg-Vorpommern,cart,2
+New Mexico,home,2
+New Hampshire,cancel,2
+Chiba,home,2
+Nevada,cancel,2
+Nebraska,cancel,2
+Nagano,cart,2
+Ceuta,cart,2
+Alabama,home,2
+Acre,home,1
+Acre,purchase,1
+Aichi,cancel,1
+Akita,product,1
+Alaska,cancel,1
+Alaska,purchase,1
+West Virginia,cancel,1
+Vorarlberg,purchase,1
+Akita,cart,1
+Zachodniopomorskie,cart,1
+Alabama,purchase,1
+Zachodniopomorskie,product,1
+Gangwon-do,purchase,1
+Ulsan Metropolitan City,cancel,1
+Melilla,cart,1
+Kagoshima,cart,1
+Kagoshima,home,1
+Kansas,purchase,1
+Kumamoto,home,1
+Kyoto,cancel,1
+Kyoto,purchase,1
+Mato Grosso do Sul,cancel,1
+Mato Grosso do Sul,purchase,1
+Melilla,department,1
+New Hampshire,purchase,1
+Melilla,product,1
+Mie,cart,1
+Ceuta,product,1
+Mississippi,home,1
+Miyagi,cancel,1
+Miyagi,home,1
+Miyazaki,product,1
+Navarra,purchase,1
+Connecticut,home,1
+Jeollanam-do,purchase,1
+Jeollanam-do,cancel,1
+Jeollabuk do,purchase,1
+Galicia,purchase,1
+Gifu,cart,1
+Gifu,department,1
+Gifu,product,1
+Galicia,home,1
+Galicia,cancel,1
+Fukushima,cancel,1
+Fukuoka,home,1
+Gunma,cart,1
+Hiroshima,cancel,1
+Delaware,home,1
+Hyogo,home,1
+Ibaraki,cart,1
+Corse,department,1
+Jeju Special Self-Governing Province,home,1
+Jeju Special Self-Governing Province,purchase,1
+Jeollabuk do,cancel,1
+Nevada,purchase,1
+New Mexico,purchase,1
+Aomori,department,1
+Schleswig-Holstein,cancel,1
+Bremen,cancel,1
+Brandenburg,home,1
+Remote territory,cancel,1
+Remote territory,home,1
+Rondônia,home,1
+Roraima,home,1
+Roraima,purchase,1
+Saarland,home,1
+Arkansas,home,1
+Ningxia Hui Autonomous Region,purchase,1
+Shimane,department,1
+Shizuoka,cancel,1
+South Australia,purchase,1
+South Dakota,cancel,1
+South Dakota,purchase,1
+Aomori,purchase,1
+Aomori,product,1
+Tasmania,home,1
+Principado de Asturias,home,1
+Piauí,home,1
+Bremen,purchase,1
+Brussels,home,1
+Castilla-La Mancha,home,1
+Normandie,home,1
+North Dakota,purchase,1
+Northern Territory,department,1
+Northern Territory,product,1
+Cantabria,home,1
+Cantabria,cancel,1
+Oita,cart,1
+Oita,department,1
+Okayama,department,1
+Okayama,product,1
+Okinawa,cancel,1
+Okinawa,product,1
+Oklahoma,purchase,1
+Osaka,purchase,1
+Paraíba,home,1
+Paraíba,purchase,1
+Castilla y León,home,1

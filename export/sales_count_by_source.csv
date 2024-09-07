@@ -1,0 +1,891 @@
+state,traffic_source,id
+Guangdong,Email,330
+England,Email,243
+California,Email,236
+Guangdong,Adwords,217
+England,Adwords,163
+Texas,Email,159
+Shanghai,Email,158
+São Paulo,Email,148
+California,Adwords,140
+Hebei,Email,133
+Zhejiang,Email,130
+Beijing,Email,124
+Florida,Email,115
+Texas,Adwords,107
+Jiangsu,Email,105
+Shanghai,Adwords,99
+Nordrhein-Westfalen,Email,97
+Gyeonggi-do,Email,96
+Beijing,Adwords,94
+Minas Gerais,Email,92
+Pará,Email,88
+São Paulo,Adwords,87
+Henan,Email,86
+Guangdong,YouTube,86
+Île-de-France,Email,82
+Hebei,Adwords,80
+Bahia,Email,79
+Shandong,Email,76
+Zhejiang,Adwords,75
+Guangdong,Facebook,75
+Fujian,Email,74
+Seoul,Email,74
+Sichuan,Email,72
+New York,Email,71
+Jiangsu,Adwords,69
+Hunan,Email,68
+Shaanxi,Email,66
+Hubei,Email,64
+Nordrhein-Westfalen,Adwords,64
+Henan,Adwords,64
+Maranhão,Email,62
+Île-de-France,Adwords,61
+Bahia,Adwords,58
+Georgia,Email,58
+Tokyo,Email,58
+Illinois,Email,58
+Pará,Adwords,58
+Florida,Adwords,57
+Hunan,Adwords,57
+Liaoning,Email,56
+New South Wales,Email,56
+England,Facebook,56
+England,YouTube,55
+Rio de Janeiro,Email,55
+Minas Gerais,Adwords,53
+New York,Adwords,49
+Gyeonggi-do,Adwords,49
+California,Facebook,48
+Ceará,Email,47
+Heilongjiang,Email,47
+California,YouTube,45
+Heilongjiang,Adwords,45
+Fujian,Adwords,45
+Shanxi,Email,45
+Victoria,Email,44
+Ceará,Adwords,44
+North Carolina,Email,43
+Virginia,Email,43
+Anhui,Email,43
+Liaoning,Adwords,43
+Arizona,Email,42
+Shandong,Adwords,41
+New South Wales,Adwords,41
+Jilin,Adwords,41
+Flanders,Email,41
+Pernambuco,Email,40
+Sichuan,Adwords,40
+Inner Mongolia Autonomous Region,Email,40
+Zhejiang,YouTube,40
+Hubei,Adwords,40
+Illinois,Adwords,39
+Cataluña,Email,39
+Auvergne-Rhône-Alpes,Email,38
+Andalucía,Email,38
+Rio Grande do Sul,Email,38
+Pennsylvania,Email,38
+Tianjin,Email,38
+New Jersey,Email,37
+Comunidad de Madrid,Email,37
+Georgia,Adwords,36
+Flanders,Adwords,36
+Tianjin,Adwords,36
+Jilin,Email,35
+Jiangxi,Email,35
+Guizhou,Email,35
+North Carolina,Adwords,34
+Seoul,Adwords,34
+Chongqing,Email,33
+Texas,Facebook,33
+Guangdong,Organic,33
+Shanghai,YouTube,33
+Shaanxi,Adwords,33
+Michigan,Email,32
+Tokyo,Adwords,32
+Shanghai,Facebook,32
+Texas,YouTube,32
+Rio de Janeiro,Adwords,32
+Beijing,Facebook,32
+Maranhão,Adwords,32
+Busan,Email,31
+Maryland,Email,30
+Anhui,Adwords,30
+Florida,Facebook,30
+Zhejiang,Facebook,29
+Comunidad Valenciana,Email,29
+Gansu province,Email,28
+Ohio,Email,28
+Paraná,Email,28
+Comunidad de Madrid,Adwords,28
+Occitanie,Email,28
+São Paulo,Facebook,28
+New Jersey,Adwords,28
+Guangxi Zhuang Autonomous Region,Email,27
+England,Organic,27
+Virginia,Adwords,26
+Jiangxi,Adwords,26
+Incheon Metropolitan City,Email,26
+Maryland,Adwords,26
+Distrito Federal,Email,26
+California,Organic,26
+Auvergne-Rhône-Alpes,Adwords,26
+Rio Grande do Sul,Adwords,25
+Colorado,Email,25
+Amazonas,Email,25
+Florida,YouTube,25
+Niedersachsen,Email,25
+Washington,Email,24
+Arizona,Adwords,24
+Jiangsu,Facebook,24
+Indiana,Email,23
+Victoria,Adwords,23
+Chongqing,Adwords,23
+Oregon,Email,23
+Pará,Facebook,23
+Washington,Adwords,23
+New York,YouTube,23
+Queensland,Email,23
+Jiangsu,YouTube,23
+Henan,YouTube,23
+Shanxi,Adwords,22
+Provence-Alpes-Côte d'Azur,Email,22
+Guizhou,Adwords,22
+Xinjiang Uygur Autonomous Region,Email,22
+Cataluña,Adwords,22
+Beijing,YouTube,21
+Inner Mongolia Autonomous Region,Adwords,21
+Hebei,YouTube,21
+Berlin,Email,21
+São Paulo,YouTube,21
+Nordrhein-Westfalen,Facebook,20
+Wallonia,Email,20
+Comunidad Valenciana,Adwords,20
+Hebei,Facebook,20
+Jilin,YouTube,20
+Louisiana,Email,20
+Guangxi Zhuang Autonomous Region,Adwords,20
+Minas Gerais,Facebook,20
+Tennessee,Email,20
+Xinjiang Uygur Autonomous Region,Adwords,20
+Baden-Württemberg,Email,20
+Yunnan,Email,20
+Gyeonggi-do,Facebook,20
+Paraná,Adwords,20
+Kanagawa,Email,19
+Bahia,Organic,19
+Tennessee,Adwords,19
+Michigan,Adwords,19
+Santa Catarina,Email,19
+Minnesota,Email,19
+Île-de-France,Facebook,19
+Scotland,Email,18
+Liaoning,YouTube,18
+Bretagne,Email,18
+Santa Catarina,Adwords,18
+Seoul,YouTube,18
+Wisconsin,Email,18
+Nordrhein-Westfalen,YouTube,18
+Amazonas,Adwords,18
+Nouvelle-Aquitaine,Email,18
+Goiás,Email,18
+Henan,Facebook,18
+Queensland,Adwords,18
+Daegu Metropolitan City,Email,17
+Bahia,YouTube,17
+Provence-Alpes-Côte d'Azur,Adwords,17
+Rio Grande do Norte,Email,17
+New York,Facebook,17
+Beijing,Organic,17
+Gansu province,Adwords,17
+Occitanie,Adwords,17
+Hessen,Email,16
+São Paulo,Organic,16
+Maranhão,Facebook,16
+Hunan,YouTube,16
+South Carolina,Email,16
+Massachusetts,Email,16
+Pernambuco,Adwords,16
+Baden-Württemberg,Adwords,16
+Ceará,YouTube,16
+Ohio,Adwords,16
+Minas Gerais,YouTube,16
+Kanagawa,Adwords,16
+Normandie,Email,16
+Bahia,Facebook,16
+Bayern,Email,16
+Sichuan,YouTube,15
+Shaanxi,Facebook,15
+Kentucky,Email,15
+Shandong,Facebook,15
+Zhejiang,Organic,15
+Île-de-France,Organic,15
+Wales,Adwords,15
+Hauts-de-France,Email,15
+Rio de Janeiro,Facebook,15
+Florida,Organic,15
+Pará,YouTube,15
+Mato Grosso,Email,15
+Andalucía,Adwords,15
+Fujian,Facebook,15
+Gyeonggi-do,YouTube,15
+Niedersachsen,Adwords,15
+Rio Grande do Sul,YouTube,15
+Flanders,YouTube,14
+Georgia,YouTube,14
+Heilongjiang,YouTube,14
+Hainan,Email,14
+Bayern,Adwords,14
+Colorado,Adwords,14
+Maranhão,YouTube,14
+Busan,Adwords,14
+Minas Gerais,Organic,14
+Chiba,Email,14
+Missouri,Email,14
+Scotland,Adwords,14
+Sergipe,Adwords,14
+Shandong,YouTube,14
+Pays de la Loire,Email,13
+Pennsylvania,Adwords,13
+Hubei,YouTube,13
+Rio de Janeiro,YouTube,13
+Saitama,Email,13
+Piauí,Email,13
+Berlin,Adwords,13
+Pays de la Loire,Adwords,13
+Texas,Organic,13
+Arizona,Facebook,13
+Utah,Email,13
+Anhui,Facebook,13
+Virginia,Facebook,13
+Wales,Email,13
+Hebei,Organic,13
+Western Australia,Email,13
+Hauts-de-France,Adwords,13
+Illinois,Facebook,13
+Oklahoma,Email,13
+Incheon Metropolitan City,Adwords,13
+New Mexico,Email,13
+Nouvelle-Aquitaine,Adwords,13
+Distrito Federal,Adwords,13
+Shanxi,Facebook,12
+Cataluña,YouTube,12
+North Carolina,Facebook,12
+Tokyo,YouTube,12
+Utah,Adwords,12
+Nevada,Adwords,12
+Minnesota,Adwords,12
+Nordrhein-Westfalen,Organic,12
+Wallonia,Adwords,12
+Idaho,Email,12
+Liaoning,Facebook,12
+País Vasco,Email,12
+Ceará,Facebook,12
+Goiás,Adwords,12
+Gyeonggi-do,Organic,11
+Espírito Santo,Email,11
+Alabama,Adwords,11
+Mato Grosso,Adwords,11
+Comunidad de Madrid,YouTube,11
+Shanghai,Organic,11
+Paraná,Facebook,11
+Hubei,Facebook,11
+Flanders,Facebook,11
+Inner Mongolia Autonomous Region,Facebook,11
+Hainan,Adwords,11
+Indiana,Adwords,10
+Idaho,Adwords,10
+Yunnan,Adwords,10
+Wallonia,YouTube,10
+Massachusetts,Adwords,10
+Región de Murcia,Email,10
+Rio Grande do Norte,Adwords,10
+Victoria,YouTube,10
+South Australia,Email,10
+Victoria,Facebook,10
+Ohio,Facebook,10
+North Carolina,YouTube,10
+Sergipe,Email,10
+Tokyo,Facebook,10
+Nevada,Email,10
+Hessen,Adwords,10
+Jilin,Facebook,10
+Île-de-France,YouTube,10
+Auvergne-Rhône-Alpes,Facebook,10
+Grand Est,Adwords,10
+Chungcheongnam-do,Adwords,10
+Bourgogne-Franche-Comté,Email,10
+Castilla y León,Adwords,10
+Georgia,Facebook,10
+Georgia,Organic,10
+Gyeongsangnam-do,Adwords,10
+Shandong,Organic,9
+Tianjin,Facebook,9
+New Jersey,YouTube,9
+Tianjin,YouTube,9
+Grand Est,Email,9
+Sachsen-Anhalt,Email,9
+Anhui,YouTube,9
+Nebraska,Email,9
+Ningxia Hui Autonomous Region,Email,9
+Fujian,Organic,9
+Fujian,YouTube,9
+Ohio,YouTube,9
+Amapá,Adwords,9
+Jiangsu,Organic,9
+Henan,Organic,9
+Castilla-La Mancha,Email,9
+Sichuan,Organic,9
+Canarias,Adwords,9
+Shanxi,YouTube,9
+Sichuan,Facebook,9
+Dolnośląskie,Email,9
+Daegu Metropolitan City,YouTube,9
+Heilongjiang,Facebook,8
+Yunnan,Facebook,8
+Connecticut,Email,8
+Connecticut,Adwords,8
+Hunan,Organic,8
+South Australia,Adwords,8
+Wisconsin,Adwords,8
+Shaanxi,YouTube,8
+Sachsen,Adwords,8
+Canarias,Email,8
+Niedersachsen,Organic,8
+Mato Grosso,Facebook,8
+Maryland,Facebook,8
+New South Wales,YouTube,8
+Busan,YouTube,8
+Pernambuco,Facebook,8
+Cataluña,Facebook,8
+Rondônia,Email,8
+Virginia,Organic,8
+Castilla-La Mancha,Adwords,8
+Alagoas,Email,8
+Hamburg,Adwords,8
+Bretagne,Adwords,8
+Alagoas,Adwords,8
+Yunnan,YouTube,8
+Michigan,YouTube,7
+Andalucía,Facebook,7
+Tasmania,Email,7
+Colorado,Facebook,7
+Jiangxi,Facebook,7
+Fukuoka,Email,7
+Mato Grosso do Sul,Email,7
+Anhui,Organic,7
+Tennessee,Facebook,7
+Extremadura,Email,7
+Jilin,Organic,7
+Ningxia Hui Autonomous Region,Adwords,7
+Missouri,Adwords,7
+Kansas,Email,7
+New York,Organic,7
+New South Wales,Facebook,7
+Aragón,Email,7
+Chongqing,Facebook,7
+New Jersey,Organic,7
+Liaoning,Organic,7
+Louisiana,Adwords,7
+New Jersey,Facebook,7
+Arizona,YouTube,7
+Nevada,YouTube,7
+Thüringen,Email,7
+Northern Ireland,Email,7
+Amazonas,Facebook,7
+Hunan,Facebook,7
+Guizhou,YouTube,7
+Guizhou,Facebook,7
+Gansu province,Facebook,7
+Provence-Alpes-Côte d'Azur,Facebook,7
+Washington,YouTube,7
+Paraná,YouTube,7
+Brussels,Email,7
+Pennsylvania,Facebook,7
+Saitama,Adwords,7
+Castilla y León,Email,7
+Hubei,Organic,7
+Paraíba,Email,7
+Centre-Val de Loire,Adwords,7
+Hamburg,Email,7
+Oklahoma,Adwords,7
+Región de Murcia,YouTube,7
+Gwangju,Email,7
+Busan,Facebook,7
+Pernambuco,YouTube,6
+Guangxi Zhuang Autonomous Region,YouTube,6
+Guangxi Zhuang Autonomous Region,Facebook,6
+Cataluña,Organic,6
+Grand Est,Organic,6
+Rio de Janeiro,Organic,6
+Iowa,Email,6
+Lubuskie,Email,6
+Queensland,YouTube,6
+Australian Capital Territory,Email,6
+Baden-Württemberg,Facebook,6
+Rhode Island,Email,6
+Aichi,Adwords,6
+Gyeongsangnam-do,Email,6
+Daejeon,Adwords,6
+Tennessee,YouTube,6
+Grand Est,Facebook,6
+Rio Grande do Sul,Facebook,6
+Dolnośląskie,Adwords,6
+Alabama,Email,6
+Arkansas,Adwords,6
+Principado de Asturias,Adwords,6
+Bayern,Facebook,6
+Heilongjiang,Organic,6
+Tokyo,Organic,6
+Andalucía,YouTube,6
+Goiás,Facebook,6
+Chungcheongnam-do,Email,6
+Galicia,Email,6
+Kentucky,Adwords,6
+Indiana,YouTube,6
+Indiana,Facebook,6
+Brussels,Adwords,6
+Colorado,Organic,6
+Chung-cheong bukdo,Email,6
+Chiba,Adwords,6
+Osaka,Email,6
+Amazonas,YouTube,6
+Niedersachsen,YouTube,6
+Niedersachsen,Facebook,6
+Kanagawa,Organic,6
+Comunidad Valenciana,YouTube,6
+Occitanie,YouTube,6
+Islas Baleares,Adwords,6
+Goiás,YouTube,6
+Rheinland-Pfalz,Adwords,5
+Occitanie,Facebook,5
+Mississippi,Adwords,5
+Seoul,Facebook,5
+Santa Catarina,Facebook,5
+Occitanie,Organic,5
+North Carolina,Organic,5
+South Australia,Facebook,5
+Michigan,Facebook,5
+South Carolina,Adwords,5
+Mississippi,Email,5
+Pará,Organic,5
+Queensland,Facebook,5
+Rio Grande do Sul,Organic,5
+Normandie,Adwords,5
+Provence-Alpes-Côte d'Azur,YouTube,5
+Sergipe,Facebook,5
+Bayern,YouTube,5
+Comunidad Valenciana,Facebook,5
+Oklahoma,YouTube,5
+Bourgogne-Franche-Comté,Adwords,5
+Rondônia,Adwords,5
+Pennsylvania,YouTube,5
+Comunidad de Madrid,Facebook,5
+New Mexico,Adwords,5
+Brandenburg,Email,5
+Schleswig-Holstein,Email,5
+Delaware,Email,5
+Canarias,Facebook,5
+Xinjiang Uygur Autonomous Region,YouTube,5
+Distrito Federal,Facebook,5
+Grand Est,YouTube,5
+Arkansas,Email,5
+Flanders,Organic,5
+Utah,Facebook,5
+Maranhão,Organic,5
+Kanagawa,YouTube,5
+Kansas,Adwords,5
+Kansas,YouTube,5
+Maryland,Organic,5
+Kentucky,Facebook,5
+Ulsan Metropolitan City,Email,5
+Wales,Facebook,5
+Illinois,Organic,5
+Tennessee,Organic,5
+Hamburg,Facebook,5
+Illinois,YouTube,5
+Wallonia,Facebook,5
+Galicia,Adwords,4
+New South Wales,Organic,4
+Ulsan Metropolitan City,Adwords,4
+Saitama,Facebook,4
+Bourgogne-Franche-Comté,YouTube,4
+Shaanxi,Organic,4
+Kanagawa,Facebook,4
+Connecticut,YouTube,4
+Pennsylvania,Organic,4
+Acre,Email,4
+Jiangxi,Organic,4
+Auvergne-Rhône-Alpes,YouTube,4
+Jeollanam-do,Email,4
+Virginia,YouTube,4
+Incheon Metropolitan City,YouTube,4
+Incheon Metropolitan City,Organic,4
+Inner Mongolia Autonomous Region,YouTube,4
+Oregon,Facebook,4
+Santa Catarina,Organic,4
+Schleswig-Holstein,Adwords,4
+Oregon,YouTube,4
+Western Australia,Adwords,4
+Normandie,Facebook,4
+North Dakota,Email,4
+Amazonas,Organic,4
+Jeju Special Self-Governing Province,Email,4
+Jeollabuk do,Adwords,4
+Andalucía,Organic,4
+Tianjin,Organic,4
+Seoul,Organic,4
+Normandie,YouTube,4
+Wisconsin,YouTube,4
+Castilla y León,YouTube,4
+Gyeongsangbuk-do,Adwords,4
+South Dakota,Adwords,4
+South Carolina,Facebook,4
+Hauts-de-France,Facebook,4
+Massachusetts,Facebook,4
+Minnesota,Facebook,4
+Alabama,Facebook,4
+Qinghai,Email,4
+Missouri,YouTube,4
+Gyeongsangbuk-do,YouTube,4
+Provence-Alpes-Côte d'Azur,Organic,4
+Arizona,Organic,4
+Busan,Organic,4
+Maine,Adwords,4
+Bayern,Organic,4
+Washington,Facebook,4
+Hessen,Organic,4
+Berlin,YouTube,4
+Guizhou,Organic,4
+New Hampshire,Facebook,4
+Berlin,Facebook,4
+Región de Murcia,Adwords,3
+Hauts-de-France,YouTube,3
+Sachsen-Anhalt,Adwords,3
+Washington,Organic,3
+Centre-Val de Loire,YouTube,3
+Hokkaido,Adwords,3
+Osaka,Adwords,3
+Xinjiang Uygur Autonomous Region,Facebook,3
+Acre,YouTube,3
+Hawaii,Email,3
+Región de Murcia,Facebook,3
+Hainan,YouTube,3
+Oregon,Adwords,3
+Remote territory,Email,3
+Incheon Metropolitan City,Facebook,3
+Oklahoma,Facebook,3
+Hainan,Organic,3
+Pernambuco,Organic,3
+Hawaii,Adwords,3
+Principado de Asturias,Email,3
+Saarland,Adwords,3
+Hyogo,Email,3
+Gwangju,YouTube,3
+Pays de la Loire,Organic,3
+Gyeongsangbuk-do,Email,3
+Pays de la Loire,Facebook,3
+Castilla-La Mancha,YouTube,3
+Guangxi Zhuang Autonomous Region,Organic,3
+Piauí,YouTube,3
+Rondônia,Facebook,3
+Centre-Val de Loire,Email,3
+Qinghai,YouTube,3
+Gyeongsangbuk-do,Facebook,3
+Castilla y León,Facebook,3
+Alabama,YouTube,3
+País Vasco,Facebook,3
+Qinghai,Adwords,3
+Sachsen,Email,3
+Hessen,Facebook,3
+Sachsen,YouTube,3
+Wisconsin,Facebook,3
+Schleswig-Holstein,YouTube,3
+Acre,Adwords,3
+Saitama,YouTube,3
+Nebraska,Adwords,3
+Maryland,YouTube,3
+Ningxia Hui Autonomous Region,Organic,3
+Brandenburg,Facebook,3
+Utah,Organic,3
+Mississippi,Facebook,3
+Baden-Württemberg,Organic,3
+Distrito Federal,YouTube,3
+Baden-Württemberg,YouTube,3
+Connecticut,Facebook,3
+Brandenburg,Adwords,3
+South Australia,Organic,3
+Tocantins,Adwords,3
+Espírito Santo,Adwords,3
+Miyagi,Email,3
+Thüringen,Facebook,3
+Berlin,Organic,3
+Lubuskie,Adwords,3
+Nevada,Organic,3
+Daegu Metropolitan City,Adwords,3
+Nebraska,YouTube,3
+Lubuskie,Facebook,3
+Minnesota,YouTube,3
+Jiangxi,YouTube,3
+Utah,YouTube,3
+Bremen,Adwords,3
+Alaska,Email,3
+Ohio,Organic,3
+Bretagne,YouTube,3
+Amapá,Email,3
+Amapá,Facebook,3
+Wales,YouTube,3
+Nouvelle-Aquitaine,Organic,3
+Nouvelle-Aquitaine,Facebook,3
+Chongqing,YouTube,3
+Northern Ireland,Facebook,3
+Arkansas,YouTube,3
+South Australia,YouTube,3
+Victoria,Organic,3
+Jeju Special Self-Governing Province,Facebook,3
+Navarra,Adwords,3
+Mato Grosso do Sul,Adwords,3
+Chung-cheong bukdo,Adwords,3
+Bagmati region,Adwords,2
+Shizuoka,Email,2
+Auvergne-Rhône-Alpes,Organic,2
+Tasmania,YouTube,2
+Tasmania,Adwords,2
+Shanxi,Organic,2
+South Carolina,Organic,2
+Rio Grande do Norte,YouTube,2
+Arkansas,Facebook,2
+Saitama,Organic,2
+Thüringen,Adwords,2
+Brussels,Organic,2
+Wallonia,Organic,2
+Sachsen-Anhalt,YouTube,2
+Sachsen-Anhalt,Organic,2
+Sachsen-Anhalt,Facebook,2
+South Dakota,Facebook,2
+West Virginia,Facebook,2
+Scotland,YouTube,2
+Bremen,Facebook,2
+Saarland,YouTube,2
+Wisconsin,Organic,2
+Sergipe,YouTube,2
+Aomori,Email,2
+Roraima,Email,2
+Ulsan Metropolitan City,YouTube,2
+Ulsan Metropolitan City,Facebook,2
+Wyoming,Email,2
+Aragón,Facebook,2
+Thüringen,YouTube,2
+Yamaguchi,Email,2
+Aragón,Adwords,2
+Gyeongsangnam-do,YouTube,2
+Okayama,Adwords,2
+Comunidad de Madrid,Organic,2
+Nagano,Email,2
+Navarra,Email,2
+Daegu Metropolitan City,Facebook,2
+Islas Baleares,Facebook,2
+New Hampshire,Email,2
+Islas Baleares,Email,2
+Iowa,YouTube,2
+Corse,Email,2
+Connecticut,Organic,2
+Comunidad Valenciana,Organic,2
+Northern Territory,YouTube,2
+Iowa,Facebook,2
+Iowa,Adwords,2
+Gangwon-do,YouTube,2
+Chungcheongnam-do,YouTube,2
+Gansu province,Organic,2
+Normandie,Organic,2
+Chung-cheong bukdo,YouTube,2
+Gansu province,YouTube,2
+Goiás,Organic,2
+Islas Baleares,YouTube,2
+Montana,Email,2
+Jeju Special Self-Governing Province,YouTube,2
+Jeollanam-do,Adwords,2
+Lubuskie,YouTube,2
+Espírito Santo,Facebook,2
+Espírito Santo,YouTube,2
+Extremadura,Adwords,2
+Distrito Federal,Organic,2
+La Rioja,Email,2
+Mato Grosso,Organic,2
+Mato Grosso,YouTube,2
+Mato Grosso do Sul,Facebook,2
+Mato Grosso do Sul,Organic,2
+Kyoto,Facebook,2
+Kyoto,Email,2
+Delaware,Organic,2
+Kentucky,Organic,2
+Michigan,Organic,2
+Daejeon,Email,2
+Daegu Metropolitan City,Organic,2
+Missouri,Facebook,2
+Missouri,Organic,2
+Idaho,Facebook,2
+Indiana,Organic,2
+Nouvelle-Aquitaine,YouTube,2
+Piauí,Adwords,2
+Paraíba,Facebook,2
+Paraíba,Organic,2
+Hiroshima,Email,2
+Hessen,YouTube,2
+País Vasco,Adwords,2
+País Vasco,YouTube,2
+Piauí,Organic,2
+Osaka,Facebook,2
+Principado de Asturias,YouTube,2
+Cantabria,Email,2
+Queensland,Organic,2
+Canarias,YouTube,2
+Rheinland-Pfalz,Email,2
+Gyeongsangnam-do,Facebook,2
+Paraná,Organic,2
+Gwangju,Adwords,2
+Louisiana,Organic,2
+Chongqing,Organic,2
+Chiba,YouTube,2
+Chiba,Facebook,2
+West Virginia,Email,1
+Extremadura,Facebook,1
+Kansas,Facebook,1
+Hawaii,YouTube,1
+West Virginia,Adwords,1
+Kentucky,YouTube,1
+Hawaii,Facebook,1
+Aomori,Facebook,1
+Akita,Email,1
+Aomori,Organic,1
+La Rioja,Adwords,1
+Western Australia,YouTube,1
+Kagoshima,Email,1
+West Virginia,YouTube,1
+Aichi,YouTube,1
+Aichi,Organic,1
+Tocantins,YouTube,1
+Tocantins,Email,1
+La Rioja,Facebook,1
+Aichi,Facebook,1
+Ibaraki,Adwords,1
+Aichi,Email,1
+Alaska,Adwords,1
+Louisiana,Facebook,1
+Aragón,YouTube,1
+Hamburg,YouTube,1
+Extremadura,Organic,1
+Gangwon-do,Adwords,1
+Extremadura,YouTube,1
+Hiroshima,Facebook,1
+Hokkaido,YouTube,1
+Wyoming,Adwords,1
+Hyogo,Adwords,1
+Hokkaido,Email,1
+Wyoming,Facebook,1
+Iowa,Organic,1
+Amapá,Organic,1
+Alagoas,Organic,1
+Amapá,YouTube,1
+Louisiana,YouTube,1
+Hyogo,Facebook,1
+Alaska,YouTube,1
+Alagoas,YouTube,1
+Inner Mongolia Autonomous Region,Organic,1
+Islas Baleares,Organic,1
+Hiroshima,Adwords,1
+Hyogo,YouTube,1
+Gunma,Facebook,1
+Western Australia,Facebook,1
+Jeollabuk do,YouTube,1
+Gwangju,Facebook,1
+Fukushima,Email,1
+Fukushima,Adwords,1
+Gyeongsangbuk-do,Organic,1
+Gifu,Email,1
+Fukuoka,Adwords,1
+Zachodniopomorskie,Adwords,1
+Rheinland-Pfalz,YouTube,1
+Lubuskie,Organic,1
+Centre-Val de Loire,Organic,1
+Ceuta,Email,1
+Ceuta,Organic,1
+Okayama,YouTube,1
+Okayama,Email,1
+Gyeongsangnam-do,Organic,1
+Oita,Email,1
+Santa Catarina,YouTube,1
+Schleswig-Holstein,Facebook,1
+Schleswig-Holstein,Organic,1
+Northern Ireland,YouTube,1
+Bretagne,Organic,1
+Bretagne,Facebook,1
+Scotland,Facebook,1
+Scotland,Organic,1
+North Dakota,Organic,1
+North Dakota,Adwords,1
+Bremen,YouTube,1
+Osaka,YouTube,1
+Centre-Val de Loire,Facebook,1
+Chungcheongnam-do,Organic,1
+Paraíba,YouTube,1
+Rheinland-Pfalz,Organic,1
+Rhode Island,Organic,1
+Canarias,Organic,1
+Rio Grande do Norte,Facebook,1
+Remote territory,YouTube,1
+Región de Murcia,Organic,1
+Cantabria,Facebook,1
+Cantabria,YouTube,1
+Brussels,YouTube,1
+Piauí,Facebook,1
+Castilla-La Mancha,Facebook,1
+Rondônia,Organic,1
+Rondônia,YouTube,1
+Roraima,Adwords,1
+Roraima,Organic,1
+Pays de la Loire,YouTube,1
+Ceará,Organic,1
+Bremen,Organic,1
+Colorado,YouTube,1
+Maine,Email,1
+Daejeon,YouTube,1
+Mie,Email,1
+Delaware,Facebook,1
+South Carolina,YouTube,1
+South Dakota,Email,1
+Rhode Island,Adwords,1
+Mecklenburg-Vorpommern,Organic,1
+Mecklenburg-Vorpommern,Email,1
+Mato Grosso do Sul,YouTube,1
+Australian Capital Territory,YouTube,1
+Australian Capital Territory,Adwords,1
+District of Columbia,Email,1
+District of Columbia,Organic,1
+Massachusetts,YouTube,1
+Dolnośląskie,Facebook,1
+Dolnośląskie,Organic,1
+Dolnośląskie,YouTube,1
+Maine,YouTube,1
+Delaware,Adwords,1
+Daejeon,Facebook,1
+Sergipe,Organic,1
+Mississippi,YouTube,1
+Ningxia Hui Autonomous Region,YouTube,1
+Brandenburg,YouTube,1
+Brandenburg,Organic,1
+Ningxia Hui Autonomous Region,Facebook,1
+New Mexico,YouTube,1
+New Mexico,Facebook,1
+Bourgogne-Franche-Comté,Facebook,1
+Corse,Facebook,1
+New Hampshire,YouTube,1
+New Hampshire,Adwords,1
+Nebraska,Facebook,1
+Montana,Facebook,1
+Shizuoka,Adwords,1
+Miyazaki,Organic,1
+Bagmati region,Email,1
+Miyazaki,Email,1
+Miyazaki,Adwords,1
+Melilla,Email,1
